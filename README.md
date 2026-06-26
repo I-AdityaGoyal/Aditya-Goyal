@@ -2,7 +2,7 @@
 
 > I design, build, and ship production GenAI systems end-to-end — agentic orchestration, RAG, and multi-model routing — from architecture through Azure deployment and CXO-facing delivery.
 
-🔗 **Live:** _add your deployed URL here_
+🔗 **Live:** [ttps://i-adityagoyal.github.io/Aditya-Goyal/](https://i-adityagoyal.github.io/Aditya-Goyal/)
 
 ![Portfolio preview](public/site_preview.png)
 
